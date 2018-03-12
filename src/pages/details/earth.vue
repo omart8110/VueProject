@@ -1,6 +1,6 @@
 <template>
 	<div>
-		开放产品:{{ getOrder }}
+		开放产品1111:{{ getOrder }}
 	</div>
 </template>
 <script>
