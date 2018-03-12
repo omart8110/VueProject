@@ -22,6 +22,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 #这个是一个测试的vue app
 #是一个什么东西，我忘了
-#第二次的更改文件
+#第二次的更改文件3453453453454
 
 这个是第一个分支的内容 ，我需要 commit上去才可以

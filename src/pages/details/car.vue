@@ -52,7 +52,7 @@
               <div class="sales-board-line-left">
               </div>
               <div class="sales-board-line-right">
-                <a class="button" href="#">立即购买</a>
+                <a class="button" href="#">立即购买1231312312312</a>
                 <a class="button" href="#">添加购物车</a>
               </div>
             </div>
